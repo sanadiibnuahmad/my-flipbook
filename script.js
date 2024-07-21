@@ -1,4 +1,4 @@
-const url = 'https://github.com/username/repo/raw/main/yourfile.pdf'; // URL file PDF di GitHub
+const url = 'https://www.canva.com/design/DAGLZM7jlks/iD28spBtJFeo_eGMh3OF-g/edit?utm_content=DAGLZM7jlks&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton'; // URL file PDF di GitHub
 
 pdfjsLib.GlobalWorkerOptions.workerSrc = 'pdfjs/pdf.worker.min.js';
 
